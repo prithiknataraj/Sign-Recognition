@@ -31,7 +31,7 @@ This project implements a real-time hand gesture recognition system using OpenCV
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/hand-gesture-recognition.git
+git clone https://github.com/prithiknataraj/Sign-Recognition.git
 cd hand-gesture-recognition
 ```
 
